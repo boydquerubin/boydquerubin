@@ -15,6 +15,10 @@ I'm Boyd Querubin, a student at Brigham Young University-Idaho interested in tec
 - Proficient in: Python, SQL, Javascript
 - Skills: Figma, Canva, Adobe Photoshop, Illustrator, After Effects, Premiere Pro, Blender 3D
 
+## Projects
+- Rubyx Qube https://rubyxqube.com/
+- BudBudget https://budbudget.netlify.app/
+
 ## Let's Connect!
 
 - Here is my [LinkedIn] https://www.linkedin.com/in/boydisaacquerubin/ profile
