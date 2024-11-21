@@ -21,7 +21,8 @@ I'm Boyd Querubin, a student at Brigham Young University-Idaho interested in tec
 
 ## Let's Connect!
 
-- Here is my [LinkedIn] https://www.linkedin.com/in/boydisaacquerubin/ profile
-- Here is my [Twitter] https://x.com/rubyxqube profile
+- Here is my LinkedIn profile: https://www.linkedin.com/in/boydisaacquerubin/
+- Here is my Twitter profile: https://x.com/rubyxqube
+- Here is my online portfolio: https://boyd-querubin-online-portfolio.vercel.app/
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
