@@ -8,7 +8,7 @@ I'm Boyd Querubin, a student at Brigham Young University-Idaho interested in tec
 
 - I'm currently learning Software Development in school.
 - My goal is to be more adept at Python.
-- I also love multimedia, volleyball and football.
+- I love volleyball and football.
 
 ## Technologies and Tools
 
