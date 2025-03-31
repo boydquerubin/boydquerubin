@@ -6,9 +6,9 @@ I'm Boyd Querubin, a student at Brigham Young University-Idaho interested in tec
 
 ## About Me
 
-- I'm currently learning Software Development in school.
+- I'm currently studying Software Development at Brigham Young University–Idaho through the Pathway Program.
 - My goal is to be more adept at Python.
-- I love volleyball and football.
+- I love volleyball and football (soccer).
 
 ## Technologies and Tools
 
